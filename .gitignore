@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+build/
+
+# Local environment files
+.env
+.env.local
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Ignore Mac OS and Windows system files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
