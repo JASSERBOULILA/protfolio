@@ -1,26 +1,28 @@
 # 🎨 3D Portfolio
 
-Welcome to my **3D Portfolio**, a creative and interactive way to explore my work using modern web technologies.
+Welcome to my **3D Portfolio**, where I showcase my creative work through stunning visuals and interactive designs powered by modern web technologies.
 
 ![Cover Image](https://link-to-image.com)  <!-- You can add a cool image here -->
 
-## 🌟 Features
-- **Stunning 3D visuals** powered by [Three.js](https://threejs.org/)
-- **Responsive Design**: Fully optimized for any device
-- **Interactive Navigation**: Smooth transitions and animations
-- **Customizable**: Easily update content with minimal effort
+## 👤 About Me
+Hello! I'm jasser Boulila, a passionate Full stack Web developer  with a keen interest in creating immersive experiences. I specialize in using technologies like **Angular , React** , **Spring Boot , Python(flask)** and for mobile**Ionic(angular)** .
 
-## 🚀 Live Demo
-Check out the live demo [here](https://your-portfolio.com).
+
+## 🌟 Features
+- **Stunning 3D Visuals**: Experience interactive 3D graphics powered by [Three.js](https://threejs.org/).
+- **Responsive Design**: Fully optimized for any device, ensuring a seamless experience across platforms.
+- **Interactive Navigation**: Smooth transitions and engaging animations that enhance user experience.
+- **Customizable**: Easily update content with minimal effort to keep your portfolio fresh.
 
 ## 💻 Tech Stack
-- **Frontend**: React, Three.js, WebGL
+- **FrontEnd** : Angular , React
+- **BackEnd** : Spring Boot , Node.js , Flask  
 - **Styling**: CSS, SASS
-- **Backend**: (Optional, if any)
-- **Deployment**: Vercel, Netlify, etc.
+- **DataBase** : Postgres , Mysql 
+- **Deployment**: github Pages
 
-## 🛠️ Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/JASSERBOULILA/3D-portfolio.git
+### 📧 Contact:
+- **email** : jasserBoulila@proton.me
+- **linkedin** : https://www.linkedin.com/in/jasser-boulila-422a68297/
+
